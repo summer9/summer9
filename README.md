@@ -10,3 +10,5 @@ I am currently studying BA in Computer Applications at HAMK University of Applie
 [Selling Price Prediction](https://github.com/summer9/Selling-Price-Prediction)
 
 [How to detect wildflowers](https://github.com/summer9/How_to_detect_wildflower)
+
+[Weather forcast- Using KNN](https://github.com/summer9/kNN-prediction)
