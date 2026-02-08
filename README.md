@@ -5,6 +5,8 @@ I am currently studying BA in Computer Applications at HAMK University of Applie
 
 ## My projects:
 
+[Fall Detection](https://github.com/summer9/Fall_Detection_Project-)
+
 [Salary Analysis](https://github.com/summer9/DataGroupWork)
 
 [Selling Price Prediction](https://github.com/summer9/Selling-Price-Prediction)
