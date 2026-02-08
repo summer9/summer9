@@ -5,7 +5,7 @@ I am currently studying BA in Computer Applications at HAMK University of Applie
 
 ## My projects:
 
-[Fall Detection](https://github.com/summer9/Fall_Detection_Project-)
+[Fall Detection_YOLO11pose and LSTM](https://github.com/summer9/Fall_Detection_Project-)
 
 [Salary Analysis](https://github.com/summer9/DataGroupWork)
 
