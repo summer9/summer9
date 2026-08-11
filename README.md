@@ -4,7 +4,7 @@ I’m a curious learner with an interest in data.
 I am currently studying BA in Computer Applications at HAMK University of Applied Sciences in Finland
 
 ## My projects:
-[Data_Job_Posting_USE SQL]()
+[Data_Job_Posting_USE SQL](https://github.com/summer9/SQL_PROJECT_DATA_JOB_POSTING/blob/main/README.md)
 
 [Fall Detection_2-stage approach: YOLO11pose and LSTM](https://github.com/summer9/Fall-detection-LSTM-YOLOv11-pose/blob/main/README.md)
 
